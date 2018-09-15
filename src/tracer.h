@@ -14,7 +14,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#define ENABLE_TRACE 0
+#define ENABLE_TRACE 1
 
 class Tracer {
 public:

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>systrace</name>
+  <version>0.1.0</version>
+  <description>
+    Systrace Profile Tool
+  </description>
+  <author>Yi-Ren Liu</author>
+  <maintainer email="yirenliu0909@gmail.com">Yi-Ren Liu</maintainer>
+  <license>TODO</license>
+
+  <!-- Dependencies which this package needs to build itself. -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Dependencies needed to compile this package. -->
+  <build_depend>roscpp</build_depend>
+  <build_depend>roslib</build_depend>
+
+  <!-- Dependencies needed after this package is compiled. -->
+</package>
