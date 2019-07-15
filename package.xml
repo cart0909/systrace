@@ -11,10 +11,5 @@
 
   <!-- Dependencies which this package needs to build itself. -->
   <buildtool_depend>catkin</buildtool_depend>
-
-  <!-- Dependencies needed to compile this package. -->
-  <build_depend>roscpp</build_depend>
-  <build_depend>roslib</build_depend>
-
-  <!-- Dependencies needed after this package is compiled. -->
+  <buildtool_depend>catkin_simple</buildtool_depend>
 </package>
